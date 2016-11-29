@@ -1,0 +1,13 @@
+{
+  "name": "sesame",
+  "version": "0.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Shane Leonard",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.8"
+  }
+}
